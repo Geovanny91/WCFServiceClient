@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="0ead9016-154f-4599-8396-b7253b622299" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:3384/ConsultasWS.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="ConsultasWS.xsd" MetadataType="Schema" ID="82a2daa0-1d56-4859-99b1-00953ca19600" SourceId="1" SourceUrl="http://localhost:3384/ConsultasWS.svc?xsd=xsd0" />
+    <MetadataFile FileName="ConsultasWS1.xsd" MetadataType="Schema" ID="1d523a5e-c21f-426f-9bce-732f12021784" SourceId="1" SourceUrl="http://localhost:3384/ConsultasWS.svc?xsd=xsd1" />
+    <MetadataFile FileName="ConsultasWS.wsdl" MetadataType="Wsdl" ID="bdf07156-c6d7-49a2-be46-ff6cf542dc3a" SourceId="1" SourceUrl="http://localhost:3384/ConsultasWS.svc?wsdl" />
+    <MetadataFile FileName="ConsultasWS.disco" MetadataType="Disco" ID="d9227cbf-eda8-4eaa-89bb-f158e2c9aad6" SourceId="1" SourceUrl="http://localhost:3384/ConsultasWS.svc?disco" />
+    <MetadataFile FileName="ConsultasWS2.xsd" MetadataType="Schema" ID="ac7d6645-d3ef-4e51-b575-21758f1f46d3" SourceId="1" SourceUrl="http://localhost:3384/ConsultasWS.svc?xsd=xsd2" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

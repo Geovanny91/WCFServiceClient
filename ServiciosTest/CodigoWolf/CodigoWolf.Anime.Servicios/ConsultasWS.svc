@@ -1,0 +1,1 @@
+﻿<%@ ServiceHost Language="C#" Debug="true" Service="CodigoWolf.Anime.Servicios.ConsultasWS" CodeBehind="ConsultasWS.svc.cs" %>

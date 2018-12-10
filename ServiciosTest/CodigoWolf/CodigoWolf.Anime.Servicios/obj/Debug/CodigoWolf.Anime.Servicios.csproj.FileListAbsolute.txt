@@ -1,0 +1,6 @@
+F:\Geo\Programacion\ServiciosTest\CodigoWolf\CodigoWolf.Anime.Servicios\bin\CodigoWolf.Anime.Servicios.dll.config
+F:\Geo\Programacion\ServiciosTest\CodigoWolf\CodigoWolf.Anime.Servicios\bin\CodigoWolf.Anime.Servicios.dll
+F:\Geo\Programacion\ServiciosTest\CodigoWolf\CodigoWolf.Anime.Servicios\bin\CodigoWolf.Anime.Servicios.pdb
+F:\Geo\Programacion\ServiciosTest\CodigoWolf\CodigoWolf.Anime.Servicios\obj\Debug\CodigoWolf.Anime.Servicios.csprojResolveAssemblyReference.cache
+F:\Geo\Programacion\ServiciosTest\CodigoWolf\CodigoWolf.Anime.Servicios\obj\Debug\CodigoWolf.Anime.Servicios.dll
+F:\Geo\Programacion\ServiciosTest\CodigoWolf\CodigoWolf.Anime.Servicios\obj\Debug\CodigoWolf.Anime.Servicios.pdb
